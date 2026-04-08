@@ -155,10 +155,10 @@ Represents system behavior over time using interaction flow between components.
 > Os diagramas foram desenvolvidos no Astah e representam toda a estrutura do sistema.
 
 ```markdown
-![Diagrama de Pacotes](docs/pacotes.png)
-![Diagrama de Classes](docs/classes.png)
-![Diagrama de Componentes](docs/componentes.png)
-![Diagrama de Sequência](docs/sequencia.png)
+Diagrama de Pacotes
+Diagrama de Classes
+Diagrama de Componentes
+Diagrama de Sequência [
 ```
 
 ---
@@ -183,7 +183,7 @@ Represents system behavior over time using interaction flow between components.
 
 ## 👨‍💻 Autor
 
-**Raiza Nunes**
+**Raiza-Nunes** **yasmithz**
 
 ---
 

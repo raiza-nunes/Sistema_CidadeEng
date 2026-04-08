@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d990539a-9bc6-4e88-abd5-4a61654e787a" name="Changes" comment="&quot;Implementa estrutura inicial do domínio da cidade&quot;">
+      <change afterPath="$PROJECT_DIR$/../Sistema_CidadeEng/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sistema_CidadeEng/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sistema_CidadeEng/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sistema_CidadeEng/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sistema_CidadeEng/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sistema_CidadeEng/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sistema_CidadeEng/Sistema_CidadeEng..iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sistema_CidadeEng/src/Edificacoes/Casa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sistema_CidadeEng/src/Edificacoes/Escola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sistema_CidadeEng/src/Edificacoes/Hospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sistema_CidadeEng/src/Infraestrutura/Estrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sistema_CidadeEng/src/Infraestrutura/Ponte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sistema_CidadeEng/src/Infraestrutura/ViaDeAcesso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sistema_CidadeEng/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Sistema_CidadeEng" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/raiza-nunes/Sistema_CidadeEng.git",
+    "accountId": "ef3aed2f-6d34-4cf0-acef-d30ee627ed35"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3C5NA6WYHHFEw8qvhis1LqJnUMz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Sistema_CidadeEng." />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d990539a-9bc6-4e88-abd5-4a61654e787a" name="Changes" comment="" />
+      <created>1775671324607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775671324607</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Implementa estrutura inicial do domínio da cidade&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Implementa estrutura inicial do domínio da cidade&quot;" />
+  </component>
+</project>

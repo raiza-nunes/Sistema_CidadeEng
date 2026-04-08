@@ -1,0 +1,10 @@
+# Default ignored files
+/../../Sistema_CidadeEng./.idea/shelf/
+/../../Sistema_CidadeEng./.idea/workspace.xml
+# Ignored default folder with query files
+/../../Sistema_CidadeEng./.idea/queries/
+# Datasource local storage ignored files
+/../../Sistema_CidadeEng./.idea/dataSources/
+/../../Sistema_CidadeEng./.idea/dataSources.local.xml
+# Editor-based HTTP Client requests
+/../../Sistema_CidadeEng./.idea/httpRequests/

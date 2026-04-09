@@ -148,18 +148,25 @@ Represents system behavior over time using interaction flow between components.
 * IntelliJ IDEA → Desenvolvimento
 * Git & GitHub → Versionamento
 
+##  Diagramas do Sistema
+
+### Diagrama de Classes
+![Diagrama de Classes](docs/classes.png)
+
 ---
 
-##  Diagramas do Projeto
+###  Diagrama de Componentes
+![Diagrama de Componentes](docs/componentes.png)
 
-> Os diagramas foram desenvolvidos no Astah e representam toda a estrutura do sistema.
+---
 
-```markdown
-![Diagrama de Pacotes]
-![Diagrama de Classes]
-![Diagrama de Componentes]
-![Diagrama de Sequência](Sistema_Cidade.asta)
-```
+### Diagrama de Pacotes
+![Diagrama de Pacotes](docs/pacotes.png)
+
+---
+
+###  Diagrama de Sequência
+![Diagrama de Sequência](docs/sequencia.png)
 
 ---
 

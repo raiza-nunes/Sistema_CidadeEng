@@ -158,7 +158,7 @@ Represents system behavior over time using interaction flow between components.
 Diagrama de Pacotes
 Diagrama de Classes
 Diagrama de Componentes
-Diagrama de Sequência [
+Diagrama de Sequência [Sistema_Cidade.asta]
 ```
 
 ---

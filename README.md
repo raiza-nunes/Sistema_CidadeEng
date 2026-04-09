@@ -148,25 +148,19 @@ Represents system behavior over time using interaction flow between components.
 * IntelliJ IDEA → Desenvolvimento
 * Git & GitHub → Versionamento
 
-##  Diagramas do Sistema
+## Diagramas do Projeto
 
 ### Diagrama de Classes
-![Diagrama de Classes](docs/classes.png)
+![Diagrama de Classes](docs/Class%20Diagram.png)
 
----
-
-###  Diagrama de Componentes
-![Diagrama de Componentes](docs/componentes.png)
-
----
+### Diagrama de Componentes
+![Diagrama de Componentes](docs/Component%20Diagram.png)
 
 ### Diagrama de Pacotes
-![Diagrama de Pacotes](docs/pacotes.png)
+![Diagrama de Pacote](docs/Diagrama%20de%20pacote.png)
 
----
-
-###  Diagrama de Sequência
-![Diagrama de Sequência](docs/sequencia.png)
+### Diagrama de Sequência
+![Diagrama de Sequência](docs/Sequence%20Diagram.png)
 
 ---
 

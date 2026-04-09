@@ -1,4 +1,4 @@
-# 🏙️ Sistema CidadeEng
+#  Sistema CidadeEng
 
 <p align="center">
   <b>Modelagem de um Sistema de Cidade baseado em Engenharia de Software</b><br>
@@ -7,7 +7,7 @@
 
 ---
 
-## 📖 Visão Geral | Overview
+## Visão Geral | Overview
 
 **PT-BR:**
 O **Sistema CidadeEng** é um projeto acadêmico que tem como objetivo modelar uma cidade utilizando conceitos de Engenharia de Software, com foco em **modularidade, reusabilidade e organização de sistemas**.
@@ -21,7 +21,7 @@ The project uses a LEGO analogy, where each city element (houses, roads, hospita
 
 ---
 
-## 🎯 Objetivo do Projeto | Project Objective
+## Objetivo do Projeto | Project Objective
 
 **PT-BR:**
 
@@ -39,7 +39,7 @@ The project uses a LEGO analogy, where each city element (houses, roads, hospita
 
 ---
 
-## 🧠 Conceito Principal (Analogia LEGO)
+##  Conceito Principal (Analogia LEGO)
 
 **PT-BR:**
 O sistema foi projetado como um conjunto de peças de LEGO:
@@ -71,7 +71,7 @@ This approach improves:
 
 ##  Etapas de Desenvolvimento do Projeto
 
-### 🔹 1. Diagrama de Pacotes (Estrutura Lógica)
+###  1. Diagrama de Pacotes (Estrutura Lógica)
 
 **PT-BR:**
 Nesta etapa foi feita a organização do sistema em pacotes, separando os principais módulos da cidade.
@@ -90,7 +90,7 @@ The system was divided into logical packages representing major city modules, im
 
 ---
 
-### 🔹 2. Diagrama de Classes (Detalhamento das Peças)
+### 2. Diagrama de Classes (Detalhamento das Peças)
 
 **PT-BR:**
 Foram definidas as classes, atributos, métodos e relacionamentos.
@@ -108,7 +108,7 @@ Classes, attributes, methods, and relationships were defined using object-orient
 
 ---
 
-### 🔹 3. Diagrama de Componentes (Arquitetura)
+###  3. Diagrama de Componentes (Arquitetura)
 
 **PT-BR:**
 Modelagem dos módulos do sistema e suas interações.
@@ -128,7 +128,7 @@ System components were modeled showing how modules interact through interfaces.
 
 ---
 
-### 🔹 4. Diagrama de Sequência (Dinâmica do Sistema)
+###  4. Diagrama de Sequência (Dinâmica do Sistema)
 
 **PT-BR:**
 Representa o funcionamento do sistema ao longo do tempo.
@@ -141,7 +141,7 @@ Represents system behavior over time using interaction flow between components.
 
 ---
 
-## ⚙️ Ferramentas Utilizadas | Tools
+##  Ferramentas Utilizadas | Tools
 
 * Astah UML → Modelagem dos diagramas
 * Java → Base conceitual de orientação a objetos
@@ -150,7 +150,7 @@ Represents system behavior over time using interaction flow between components.
 
 ---
 
-## 📊 Diagramas do Projeto
+##  Diagramas do Projeto
 
 > Os diagramas foram desenvolvidos no Astah e representam toda a estrutura do sistema.
 
@@ -163,7 +163,7 @@ Diagrama de Sequência [
 
 ---
 
-## 🔍 Boas Práticas Aplicadas
+## Boas Práticas Aplicadas
 
 * Princípio da Responsabilidade Única (SRP)
 * Modularização do sistema
@@ -172,7 +172,7 @@ Diagrama de Sequência [
 
 ---
 
-## 🚧 Melhorias Futuras
+##  Melhorias Futuras
 
 * Implementação completa em código
 * Integração com banco de dados
@@ -181,13 +181,12 @@ Diagrama de Sequência [
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Raiza-Nunes** **yasmithz**
 
 ---
-
-## 📌 Considerações Finais
+## Considerações Finais
 
 **PT-BR:**
 Este projeto demonstra como a modelagem bem estruturada pode facilitar o desenvolvimento de sistemas complexos, utilizando conceitos fundamentais de Engenharia de Software.

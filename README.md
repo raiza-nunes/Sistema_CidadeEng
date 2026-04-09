@@ -69,7 +69,7 @@ This approach improves:
 
 ---
 
-## 🏗️ Etapas de Desenvolvimento do Projeto
+##  Etapas de Desenvolvimento do Projeto
 
 ### 🔹 1. Diagrama de Pacotes (Estrutura Lógica)
 
